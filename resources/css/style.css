@@ -1,6 +1,6 @@
 html * {
 	padding: 0;
-	margin: 0;
+	margin: 1% 0;
 	box-sizing: border-box;
 }
 
@@ -16,6 +16,7 @@ h1 {
 	font-family: Verdana;
 	font-size: 50px;
 	font-weight: normal;
+	font-variant: small-caps;
 }
 
 h2 {
@@ -23,7 +24,7 @@ h2 {
 	font-weight: 300;
 	font-family: Verdana;
 	font-size: 42px;
-}
+	}
 
 p {
 	font-family: Verdana;
@@ -33,12 +34,12 @@ p {
 
 img {
 	display: block;
-	margin: 0 auto;
+	margin: 1% auto;
 }
 
 video {
 	display: block;
-	margin: 0 auto;
+	margin: 1% auto;
 }
 
 a {
@@ -52,5 +53,6 @@ footer {
 }
 
 small {
-	font-size: 16px;
+	font-size: 20px;
+	margin-right: 1.5%;
 }
