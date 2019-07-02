@@ -1,0 +1,56 @@
+html * {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	color: white;
+	background-color: black;
+	text-align: center;
+	margin: 25px 10px;
+}
+
+h1 {
+	color: white;
+	font-family: Verdana;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+h2 {
+	color: white;
+	font-weight: 300;
+	font-family: Verdana;
+	font-size: 42px;
+}
+
+p {
+	font-family: Verdana;
+	font-size: 21px;
+	color: Gray;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+}
+
+a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+footer {
+	color: Gray;
+	text-align: right;
+}
+
+small {
+	font-size: 16px;
+}
